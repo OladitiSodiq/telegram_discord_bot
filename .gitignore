@@ -13,3 +13,5 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
+00-laravel-deploy.sh
+/conf/ngnix/nginx-site.conf
